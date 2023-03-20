@@ -1,7 +1,7 @@
 # About-Me
 
 
-I am looking for challenges that allow me to grow both at work and personal level, applying my experience and knowledge in a company or work team and aligning myself to the proposed objectives. Adding to them my responsibility and commitment, being the axes of my way of working the cooperativity with my peers, the good treatment with the clients and the proactivity and predisposition with my functions.
+I am looking for challenges that allow me to grow both at work and personal level, applying my experience and knowledge in a company or work team and aligning myself to the proposed objectives.
 
 PROFESSIONAL EDUCATION:
 National Public Accountant with a background in Corporate Finance.
