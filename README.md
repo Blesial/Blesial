@@ -43,8 +43,6 @@ Languages:
 Español (Native)
 English (Advanced - C1)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blesial)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blesial&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
