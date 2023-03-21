@@ -1,6 +1,6 @@
 Hola! 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50px"/>
 </div>
 
 I am looking for challenges that allow me to grow both at work and personal level, applying my experience and knowledge in a company or work team and aligning myself to the proposed objectives.
