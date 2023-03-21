@@ -19,6 +19,14 @@
 
 <br>
 
+### :woman_technologist: About Me :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
 I am looking for challenges that allow me to grow both at work and personal level, applying my experience and knowledge in a company or work team and aligning myself to the proposed objectives.
 
 PROFESSIONAL EDUCATION:
